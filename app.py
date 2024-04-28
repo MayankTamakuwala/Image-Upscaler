@@ -106,8 +106,9 @@ if __name__ == "__main__":
             ], [
                 gr.Image(type="numpy", label="Output (The whole image)"),
             ],
-            title=title
+            title=title,
+            allow_flagging="never"
         )
-        
+
     demo.queue()
     demo.launch()
