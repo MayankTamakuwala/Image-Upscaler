@@ -70,3 +70,7 @@ Common issues:
 
 - <b>Memory errors due to GPU limits</b>: Try running the script with a smaller tile size or on a system with more GPU resources.
 - <b>Model files not found</b>: Ensure all model files are downloaded as per the installation instructions.
+
+## Demo
+
+- <a href="https://mayanktamakuwala-image-upscaler-and-restoring-gf-5c51069.hf.space">Hugging Face Space</a>
